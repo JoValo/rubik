@@ -1,4 +1,8 @@
 # rubik
-Control de inventario y personal para una agencia organizadora de eventos.
+*Requirements*
+PHP >= 5.2.x
+Oracle 11g or greater
 
-Tipos de usuarios: Admin, staff (Distintos privilegios para cada uno)
+*Description*
+Small management of stock and personal with dynamic tables(AJAX Tables) and responsive design (Bootstrap).
+
